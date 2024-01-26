@@ -1,0 +1,19 @@
+{
+    "name": "arcangel/interfaces",
+    "description": "Interfaces",
+    "type": "no",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arcangel\\Interfaces\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gt-rcngl",
+            "email": "git.arcangel@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
